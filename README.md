@@ -19,3 +19,7 @@ This is a Streamlit-based application that uses a local LLM (Mistral via Ollama)
 1. Start Mistral via Ollama:
    ```bash
    ollama run mistral
+2. Run the Streamlit app: streamlit run main.py
+
+3. Enter an IT issue and submit!
+
